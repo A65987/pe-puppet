@@ -15,3 +15,7 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
+
+# Added 20.01.2022, A65987
+
+mod 'puppetlabs-ntp', '9.1.0'
