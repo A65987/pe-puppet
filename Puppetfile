@@ -18,4 +18,4 @@ forge 'https://forge.puppet.com'
 
 # Added 20.01.2022, A65987
 
-mod 'puppetlabs-ntp', '9.1.0'
+mod 'puppetlabs-ntp', '9.1.1'
